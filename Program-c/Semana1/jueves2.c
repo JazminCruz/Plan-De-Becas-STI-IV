@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main() {
+int main() {     /*Programa para saber cuál es el número más grande entre 4 número con If/else*/
 
 int numero1;
 int numero2;

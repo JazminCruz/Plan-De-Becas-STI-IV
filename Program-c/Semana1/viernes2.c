@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main(){
+int main(){        //Programa para hacer una calculador con SWITCH
 
 float decimal1;
 float decimal2;

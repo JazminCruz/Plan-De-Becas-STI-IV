@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main() {
+int main() {      /*Programa para saber si es una vocal o consonante, por medio de switch*/
 
 char letraabc;
 
