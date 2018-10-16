@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<time.h>
 
-int main() {
+int main() {     //Programa que hace la conversion de horas, minutos, sgundos, dias y anos
 
 int cantidad;
 char destino;
