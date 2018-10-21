@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main() {          /*Programa para saber si es una consonante o vocal con "if/else"*/
+int main() {          /*Programa para saber si es una consonante o vocal                                    con "if/else"*/
 char letraabc;
 
 
@@ -28,7 +28,7 @@ else
       printf("Su letra es una vocal\n");
     }
 else
-    if (letraabc == "u" || letraabc == 'U'){
+    if (letraabc == 'u' || letraabc == 'U'){
       printf("Su letra es un volcal\n");
     }
 
