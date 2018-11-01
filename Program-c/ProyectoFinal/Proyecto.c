@@ -1,8 +1,8 @@
 /*Proyecto final: JUEGO DEL AHORCADO.
  Fecha de entrega: 31 de Octubre del 2018.
 
-	STI IV
-	DGTIC
+	Plan de Becas. Servicios de Tecnologias de la Informacion IV
+				DGTIC
 
 Curso: INTRODUCCION A LA PROGRAMACION EN C.
 
